@@ -13,7 +13,7 @@ BASE=$(pwd -P)
 
 ### Check empty directory
 
-if [ "$(/bin/ls -1A | wc -l)" -ne "2" ]; then
+if [ "$(/bin/ls -1A | wc -l)" -ne "3" ]; then
     echo Please run this script from an empty directory.
     exit 1
 fi
