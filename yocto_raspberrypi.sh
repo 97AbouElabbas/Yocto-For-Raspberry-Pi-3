@@ -47,5 +47,5 @@ bitbake-layers add-layer ${BASE}/src/meta-openembedded/meta-networking
 cp ${BASE}/local.conf ${BASE}/build/conf
 
 # Cui Build Image
-# bitbake rpi-basic-image
+bitbake rpi-basic-image
 
