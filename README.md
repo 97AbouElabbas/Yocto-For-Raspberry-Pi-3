@@ -1,4 +1,4 @@
 # Yocto For Raspberry Pi 3
 
-- clone the project in empty dir
-- excute yocto_raspberrypi.sh
+- 1-clone the project in empty dir
+- 2-excute yocto_raspberrypi.sh
